@@ -35,6 +35,6 @@ It was interesting to experiement with (mouse) events and see how just a few lin
 
 
 ## License Information
-[This Eye Movement project is licensed under the MIT License](https://github.com/wkbw/Pac-Manr#:~:text=Commit%20time-,LICENSE,-Initial%20commit).
+[This Eye Movement project is licensed under the MIT License](https://github.com/wkbw/eye-exercise/blob/main/LICENSE.md).
 
 
